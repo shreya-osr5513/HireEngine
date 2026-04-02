@@ -1,4 +1,4 @@
-# HireEngine — Automated Job Aggregation & Alert System:
+# HireEngine: Automated Job Aggregation & Alert System:
 
 A production-style backend system that automates job discovery, personalization, and notification using scalable architecture and real-time processing.
 
